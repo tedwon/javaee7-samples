@@ -15,7 +15,7 @@
     <name>Java EE 7 Samples: extras - camel</name>
     
     <properties>
-        <camel.version>2.13.0</camel.version>
+        <camel.version>3.2.0</camel.version>
     </properties>
     
     <dependencies>
